@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\bin\Debug\net5.0\Gradingif.exe
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\bin\Debug\net5.0\Gradingif.deps.json
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\bin\Debug\net5.0\Gradingif.runtimeconfig.json
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\bin\Debug\net5.0\Gradingif.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\bin\Debug\net5.0\Gradingif.dll
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\bin\Debug\net5.0\ref\Gradingif.dll
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\bin\Debug\net5.0\Gradingif.pdb
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\obj\Debug\net5.0\Gradingif.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\obj\Debug\net5.0\Gradingif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\obj\Debug\net5.0\Gradingif.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\obj\Debug\net5.0\Gradingif.AssemblyInfo.cs
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\obj\Debug\net5.0\Gradingif.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\obj\Debug\net5.0\Gradingif.dll
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\obj\Debug\net5.0\ref\Gradingif.dll
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\obj\Debug\net5.0\Gradingif.pdb
+C:\Users\lena_\source\repos\ControlFlow\Gradingif\obj\Debug\net5.0\Gradingif.genruntimeconfig.cache

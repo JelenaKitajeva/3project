@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\bin\Debug\net5.0\ControlFlow.exe
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\bin\Debug\net5.0\ControlFlow.deps.json
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\bin\Debug\net5.0\ControlFlow.runtimeconfig.json
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\bin\Debug\net5.0\ControlFlow.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\bin\Debug\net5.0\ControlFlow.dll
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\bin\Debug\net5.0\ref\ControlFlow.dll
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\bin\Debug\net5.0\ControlFlow.pdb
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.AssemblyInfo.cs
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.dll
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\obj\Debug\net5.0\ref\ControlFlow.dll
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.pdb
+C:\Users\lena_\source\repos\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.genruntimeconfig.cache

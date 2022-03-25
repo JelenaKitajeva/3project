@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\bin\Debug\net5.0\PersonalityTestSwich.exe
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\bin\Debug\net5.0\PersonalityTestSwich.deps.json
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\bin\Debug\net5.0\PersonalityTestSwich.runtimeconfig.json
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\bin\Debug\net5.0\PersonalityTestSwich.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\bin\Debug\net5.0\PersonalityTestSwich.dll
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\bin\Debug\net5.0\ref\PersonalityTestSwich.dll
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\bin\Debug\net5.0\PersonalityTestSwich.pdb
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.AssemblyInfo.cs
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.dll
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\ref\PersonalityTestSwich.dll
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.pdb
+C:\Users\lena_\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.genruntimeconfig.cache
